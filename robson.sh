@@ -23,5 +23,8 @@ cd /
 #lista arquivos e diretórios
 ls -a
 
+#reiniciando o sistema
+shutdown -r now
+
 
 
